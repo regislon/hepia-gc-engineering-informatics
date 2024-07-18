@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 .DS_Store
 .pre-commit-config.yaml
+/hepia-engineering-informatics/notebooks/_*
